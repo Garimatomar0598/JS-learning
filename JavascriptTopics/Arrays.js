@@ -1,8 +1,8 @@
 
-let a = [1, 2, 3, 4, 5];
-console.log(a);
+const marvel_heros = ["thor", "ironman", "spiderman", "hulk"];
+const dc_heros = ["batman", "superman", "batman"];
+
+// marvel_heros.push("dc_heros");
+// console.log(marvel_heros[3][1]);
 
 
-
-
-console.log(a.pop(100))
