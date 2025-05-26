@@ -15,6 +15,11 @@ const another_array = [1,2,3,[4,5,6],[7,8,9],[10,11]];
 const real_another_array = another_array.flat(Infinity);
 console.log(real_another_array);
 
+console.log(Array.isArray("Garima"))
+console.log(Array.from("Garima"));
+console.log(Array.from({name: "Garima"}))
+
+
 
 
 
