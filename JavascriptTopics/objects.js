@@ -4,16 +4,6 @@
 var obj = {};
 var obj5 = new Object();
 
-
-
-
-
-
-
-
-
-
-
 //object literal
 
 const mysym= Symbol("key1");
