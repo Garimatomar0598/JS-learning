@@ -5,4 +5,4 @@ console.log(this);
 //function inside method (Es6)- object
 //function inside method in es5 -window
 //constructor fnc main this ki value- new blank object
-//event listner main this ki value-  that element jis pr event listner laga ho,jaise button ya h1
+//event listner main this ki value-  that element jis pr event listner laga ho,jaise button ya h1 ,jis element pr kuch action perfrom ho vahi event listner hota hai
