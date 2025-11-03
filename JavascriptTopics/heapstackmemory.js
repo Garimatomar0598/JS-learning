@@ -2,7 +2,7 @@
 let myname = "Garima Tomar";
 
 let secondname = "Golu";
-secondname = "kattu";
+secondname = "gattu";
 
 
  console.log(secondname);
